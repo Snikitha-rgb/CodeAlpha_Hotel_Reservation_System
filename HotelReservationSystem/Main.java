@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.util.Scanner;
 
 public class Main {
-    private static Hotel hotel;
+    static Hotel hotel;
 
     public static void main(String[] args) {
         hotel = new Hotel();
